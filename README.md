@@ -13,6 +13,14 @@
   <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 </div>
 
+## Linguagens e ferramentasa que desejo aprender e me aprofundar:
+<div>
+    <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+    <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+    <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+</div>
+
 <br>
 <div align="center">
   <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">
