@@ -13,7 +13,7 @@
   <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 </div>
 
-## Linguagens e ferramentasa que desejo aprender e me aprofundar:
+## Linguagens e ferramentas que desejo aprender e me aprofundar:
 <div>
     <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
     <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
