@@ -2,7 +2,7 @@
 <p align="center">Sou um apaixonado por programação e atualmente sou um desenvolvedor front-end</p>
 <div>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-the-lima&layout=donut&theme=radical">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jose-the-lima&show_icons=true&theme=radical">
+    <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=jose-the-lima&show_icons=true&theme=radical">
 </div>
 
 ## Linguagens utilizadas no dia a dia
